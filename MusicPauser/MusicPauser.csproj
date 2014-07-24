@@ -36,6 +36,9 @@
     <Reference Include="UnityEngine">
       <HintPath>Y:\KSP_win\exp\0.24kspi\KSP_Data\Managed\UnityEngine.dll</HintPath>
     </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\Json60r3\Bin\Net35\Newtonsoft.Json.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
